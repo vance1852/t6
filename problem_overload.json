@@ -1,0 +1,728 @@
+{
+  "sessions": [
+    {
+      "session_id": "EV-0000",
+      "vehicle_type": "ev",
+      "arrival_slot": 71,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 50.32994659912707,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0001",
+      "vehicle_type": "ev",
+      "arrival_slot": 68,
+      "expected_departure_slot": 94,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 20.133644286337827,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0002",
+      "vehicle_type": "ev",
+      "arrival_slot": 85,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 23.510996158578727,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0003",
+      "vehicle_type": "ev",
+      "arrival_slot": 69,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 22.939467292305675,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0004",
+      "vehicle_type": "ev",
+      "arrival_slot": 80,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 45.22105217727905,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0005",
+      "vehicle_type": "ev",
+      "arrival_slot": 37,
+      "expected_departure_slot": 62,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 67.72036486273919,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0006",
+      "vehicle_type": "ev",
+      "arrival_slot": 81,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 85.61521475470647,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0007",
+      "vehicle_type": "ev",
+      "arrival_slot": 29,
+      "expected_departure_slot": 54,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 77.84906593368476,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0008",
+      "vehicle_type": "ev",
+      "arrival_slot": 28,
+      "expected_departure_slot": 38,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 21.02632874020907,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0009",
+      "vehicle_type": "ev",
+      "arrival_slot": 86,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 59.582359173333145,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0010",
+      "vehicle_type": "ev",
+      "arrival_slot": 37,
+      "expected_departure_slot": 50,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 55.55999361192593,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0011",
+      "vehicle_type": "ev",
+      "arrival_slot": 73,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 96.37376930372034,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0012",
+      "vehicle_type": "ev",
+      "arrival_slot": 84,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 20.684897181829545,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0013",
+      "vehicle_type": "ev",
+      "arrival_slot": 80,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": 88,
+      "required_energy_kwh": 46.7864432418773,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EV-0014",
+      "vehicle_type": "ev",
+      "arrival_slot": 31,
+      "expected_departure_slot": 52,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 74.32415613173495,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0015",
+      "vehicle_type": "ebike",
+      "arrival_slot": 75,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.5488343399028888,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0016",
+      "vehicle_type": "ebike",
+      "arrival_slot": 74,
+      "expected_departure_slot": 93,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.4739527441999303,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0017",
+      "vehicle_type": "ebike",
+      "arrival_slot": 74,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 1.2482230586218956,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0018",
+      "vehicle_type": "ebike",
+      "arrival_slot": 89,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 3.844104965592454,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0019",
+      "vehicle_type": "ebike",
+      "arrival_slot": 68,
+      "expected_departure_slot": 88,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 3.226313177864894,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0020",
+      "vehicle_type": "ebike",
+      "arrival_slot": 88,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": 92,
+      "required_energy_kwh": 1.8130882050542434,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0021",
+      "vehicle_type": "ebike",
+      "arrival_slot": 32,
+      "expected_departure_slot": 47,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 4.981060054632001,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0022",
+      "vehicle_type": "ebike",
+      "arrival_slot": 80,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 3.1507279912670736,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0023",
+      "vehicle_type": "ebike",
+      "arrival_slot": 51,
+      "expected_departure_slot": 90,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 3.9222413122164044,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0024",
+      "vehicle_type": "ebike",
+      "arrival_slot": 29,
+      "expected_departure_slot": 73,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 4.6998359300525845,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0025",
+      "vehicle_type": "ebike",
+      "arrival_slot": 29,
+      "expected_departure_slot": 60,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.4425828415646276,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0026",
+      "vehicle_type": "ebike",
+      "arrival_slot": 82,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.796187381238737,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0027",
+      "vehicle_type": "ebike",
+      "arrival_slot": 77,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.501340314760053,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0028",
+      "vehicle_type": "ebike",
+      "arrival_slot": 82,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": 90,
+      "required_energy_kwh": 1.4893071624103986,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0029",
+      "vehicle_type": "ebike",
+      "arrival_slot": 30,
+      "expected_departure_slot": 75,
+      "actual_departure_slot": 59,
+      "required_energy_kwh": 2.1940564545233814,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0030",
+      "vehicle_type": "ebike",
+      "arrival_slot": 67,
+      "expected_departure_slot": 84,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 4.363398684240033,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0031",
+      "vehicle_type": "ebike",
+      "arrival_slot": 30,
+      "expected_departure_slot": 74,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 4.819418521188753,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0032",
+      "vehicle_type": "ebike",
+      "arrival_slot": 30,
+      "expected_departure_slot": 57,
+      "actual_departure_slot": 45,
+      "required_energy_kwh": 1.566207031185657,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0033",
+      "vehicle_type": "ebike",
+      "arrival_slot": 21,
+      "expected_departure_slot": 63,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 4.598330107605718,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0034",
+      "vehicle_type": "ebike",
+      "arrival_slot": 27,
+      "expected_departure_slot": 58,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.2824934640480374,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0035",
+      "vehicle_type": "ebike",
+      "arrival_slot": 75,
+      "expected_departure_slot": 94,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.4305027253918787,
+      "charger_max_power_factor": 0.40518812685254124
+    },
+    {
+      "session_id": "EB-0036",
+      "vehicle_type": "ebike",
+      "arrival_slot": 80,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 4.707575605250344,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0037",
+      "vehicle_type": "ebike",
+      "arrival_slot": 28,
+      "expected_departure_slot": 57,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 3.4514452977466985,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0038",
+      "vehicle_type": "ebike",
+      "arrival_slot": 49,
+      "expected_departure_slot": 93,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.5695324065212293,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0039",
+      "vehicle_type": "ebike",
+      "arrival_slot": 70,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.425864969308607,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0040",
+      "vehicle_type": "ebike",
+      "arrival_slot": 83,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 1.8326992116403553,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0041",
+      "vehicle_type": "ebike",
+      "arrival_slot": 26,
+      "expected_departure_slot": 55,
+      "actual_departure_slot": 48,
+      "required_energy_kwh": 3.9230770434963107,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0042",
+      "vehicle_type": "ebike",
+      "arrival_slot": 87,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 3.572118366414213,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0043",
+      "vehicle_type": "ebike",
+      "arrival_slot": 91,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 3.042213251066846,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0044",
+      "vehicle_type": "ebike",
+      "arrival_slot": 81,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 1.1703784253235399,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0045",
+      "vehicle_type": "ebike",
+      "arrival_slot": 87,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 4.448603461768736,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0046",
+      "vehicle_type": "ebike",
+      "arrival_slot": 33,
+      "expected_departure_slot": 55,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 1.1889418395080251,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0047",
+      "vehicle_type": "ebike",
+      "arrival_slot": 9,
+      "expected_departure_slot": 43,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 4.12204139437512,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0048",
+      "vehicle_type": "ebike",
+      "arrival_slot": 24,
+      "expected_departure_slot": 51,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 1.0212611902524826,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0049",
+      "vehicle_type": "ebike",
+      "arrival_slot": 68,
+      "expected_departure_slot": 84,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 1.8032841581495291,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0050",
+      "vehicle_type": "ebike",
+      "arrival_slot": 73,
+      "expected_departure_slot": 84,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.43573166249616,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0051",
+      "vehicle_type": "ebike",
+      "arrival_slot": 78,
+      "expected_departure_slot": 95,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 3.6863440317811524,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0052",
+      "vehicle_type": "ebike",
+      "arrival_slot": 90,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 1.2434999960051516,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0053",
+      "vehicle_type": "ebike",
+      "arrival_slot": 81,
+      "expected_departure_slot": 94,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 4.139952060129984,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0054",
+      "vehicle_type": "ebike",
+      "arrival_slot": 82,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.6834881298693825,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0055",
+      "vehicle_type": "ebike",
+      "arrival_slot": 79,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.3994211945972905,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0056",
+      "vehicle_type": "ebike",
+      "arrival_slot": 90,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.5140896355992353,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0057",
+      "vehicle_type": "ebike",
+      "arrival_slot": 74,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 2.596287209835814,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0058",
+      "vehicle_type": "ebike",
+      "arrival_slot": 89,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 3.211302756759462,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0059",
+      "vehicle_type": "ebike",
+      "arrival_slot": 86,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 3.6898638356135933,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0060",
+      "vehicle_type": "ebike",
+      "arrival_slot": 72,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 1.4850225118626081,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0061",
+      "vehicle_type": "ebike",
+      "arrival_slot": 85,
+      "expected_departure_slot": 96,
+      "actual_departure_slot": 91,
+      "required_energy_kwh": 3.077678048384806,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0062",
+      "vehicle_type": "ebike",
+      "arrival_slot": 32,
+      "expected_departure_slot": 76,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 4.204048592984259,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0063",
+      "vehicle_type": "ebike",
+      "arrival_slot": 29,
+      "expected_departure_slot": 75,
+      "actual_departure_slot": 68,
+      "required_energy_kwh": 3.4772708744086684,
+      "charger_max_power_factor": 1.0
+    },
+    {
+      "session_id": "EB-0064",
+      "vehicle_type": "ebike",
+      "arrival_slot": 27,
+      "expected_departure_slot": 70,
+      "actual_departure_slot": null,
+      "required_energy_kwh": 3.696352517017569,
+      "charger_max_power_factor": 1.0
+    }
+  ],
+  "grid_profile": {
+    "capacity_limits_kw": [
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      120.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      80.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      50.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0
+    ],
+    "tariffs": [
+      {
+        "name": "peak",
+        "start_hour": 8,
+        "end_hour": 11,
+        "price": 1.2
+      },
+      {
+        "name": "peak",
+        "start_hour": 18,
+        "end_hour": 21,
+        "price": 1.2
+      },
+      {
+        "name": "flat",
+        "start_hour": 11,
+        "end_hour": 18,
+        "price": 0.8
+      },
+      {
+        "name": "flat",
+        "start_hour": 21,
+        "end_hour": 22,
+        "price": 0.8
+      },
+      {
+        "name": "valley",
+        "start_hour": 22,
+        "end_hour": 6,
+        "price": 0.35
+      },
+      {
+        "name": "valley",
+        "start_hour": 6,
+        "end_hour": 8,
+        "price": 0.5
+      }
+    ]
+  },
+  "num_slots": 96
+}
